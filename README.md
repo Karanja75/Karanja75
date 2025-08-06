@@ -11,7 +11,7 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 
 - My background includes merchandising, planning, and supply chain operations, inventory tracking, and financial reporting—often working cross-functionally to optimize   performance.
 - My passion lies in **simplifying complex data**, deriving **actionable insights**, and supporting **timely decision-making** for operational efficiency.
--Currently, I’m deepening my knowledge in BI tools, DAX, and storytelling through data. Whether it’s building dashboards or crafting analytical reports, I believe clarity is  the highest form of impact.
+- Currently, I’m deepening my knowledge in BI tools, DAX, and storytelling through data. Whether it’s building dashboards or crafting analytical reports, I believe clarity is  the highest form of impact.
 
 ---
 
