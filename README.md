@@ -30,25 +30,16 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="48" height="48" alt="Python" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access" />
 </p>
 
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
-  **Visual dashboards, DAX calculations, data modeling**
-
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-  **Advanced functions, pivot tables, automation (Power Query)**
-
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)  
-  **Querying, filtering, and joining relational data**
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  **Learning for data automation and analytics**
-
-- ![MS Access](https://img.shields.io/badge/-MS%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)  
-  **Database design and form/report development** 
+- *Power BI*: Visual dashboards, DAX calculations, data modeling  
+- *Excel*: Advanced functions, pivot tables, automation (Power Query)  
+- *SQL*: Querying, filtering, and joining relational data  
+- *Python*: Learning for data automation and analytics  
+- *MS Access*: Database design and form/report development
 
 ---
 
@@ -61,6 +52,11 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 - Supply Chain Coordination  
 - Production Planning  
 - Procurement & Merchandising  
+
+---
+
+### 🧠 Learning
+- Python
 
 ---
 
@@ -96,10 +92,12 @@ Kenya Methodist University (KeMU)
 
 ## 📈 What I Do
 
+- Analyze data to drive operational improvements and track business profitability
 - Build dashboards that drive clarity  
-- Track KPIs across logistics, production, and sales  
-- Optimize workflows using smart tools and cross-functional collaboration  
-- Learn and apply new technologies to solve real problems  
+- Track KPIs across logistics, merchandising, production, and sales  
+- Optimize workflows using smart tools and cross-functional teams collaboration  
+- Learn and apply new technologies to solve real problems
+- Expertise in procurement and sourcing to support local production 
 
 ----
 
