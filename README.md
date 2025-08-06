@@ -3,7 +3,7 @@ My Personal Portfolio
 
 # 👋 Hi, I'm Ken Karanja Wang’ang’a
 
-🎯 **Data-Driven Analyst | Supply Chain Professional | Dashboard Builder**
+🎯 **Data-Driven Analyst | Merchandiser | Procurement Professional | Dashboard Builder**
 
 I’m a data-driven professional with a background in merchandising, planning, and supply chain operations, currently working at **Hela Intimates EPZ**. My passion lies in **simplifying complex data**, deriving **actionable insights**, and supporting **timely decision-making** for operational efficiency.
 
@@ -18,7 +18,7 @@ I’m a data-driven professional with a background in merchandising, planning, a
 - **Python (Learning)**
 
 ### 🏭 ERP Systems
-- **SAP S/4HANA – SD & MM Modules**
+- **SAP S/4HANA FASHION – SD & MM Modules**
 
 ### 🔄 Operations & Planning
 - Supply Chain Coordination  
