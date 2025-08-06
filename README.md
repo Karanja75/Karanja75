@@ -18,6 +18,7 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 ## 📫 Contact
 
 - 📍 Based in: Nairobi, Kenya
+- 
 - 📫 Email: [kenwarorwa@gmail.com]
 - 💼 LinkedIn: [kenkaranja](www.linkedin.com/in/ken-karanja-864108105)
 <!-- - 📱 **Mobile:** +254 702 613 834  *(Consider if public sharing is okay)* -->
@@ -26,28 +27,54 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 ## 🛠️ Skills & Tools
 
 ### 📊 Data Analysis & Visualization
-- **Excel (Advanced)**
-- **Power BI**
-- **SQL (Intermediate)**
-- **Python (Learning)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access" />
+</p>
 
-### 🏭 ERP Systems
-- **SAP S/4HANA FASHION – SD & MM Modules**
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+  **Visual dashboards, DAX calculations, data modeling**
 
-### 🔄 Operations & Planning
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+  **Advanced functions, pivot tables, automation (Power Query)**
+
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)  
+  **Querying, filtering, and joining relational data**
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+  **Learning for data automation and analytics**
+
+- ![MS Access](https://img.shields.io/badge/-MS%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)  
+  **Database design and form/report development** 
+
+---
+
+### 🏭 ERP Systems  
+- **SAP S/4HANA FASHION – SD & MM Modules** (Order processing, materials management, reporting)
+
+---
+
+### 🔄 Operations & Planning  
 - Supply Chain Coordination  
 - Production Planning  
-- Procurement & Merchandising
+- Procurement & Merchandising  
 
-### 💻 Tech & Tools
-- Microsoft 365 Suite  
-- Adobe Photoshop / Illustrator  
-- Computer Troubleshooting
+---
 
-### 🤝 Soft Skills
-- Problem-solving  
+### 💻 Other Tools  
+- Microsoft 365 (Word, PowerPoint, Outlook, Teams)  
+- Adobe Photoshop / Illustrator (Basic graphic editing)  
+- General IT Support & Troubleshooting  
+
+---
+
+### 🤝 Soft Skills  
+- Strong problem-solving and analytical thinking  
 - Continuous improvement mindset  
-- Communication & Teamwork
+- Excellent communication and collaboration across teams  
 
 ---
 
