@@ -1,7 +1,7 @@
 # Ken-Karanja
 My Personal Portfolio
 
-**📁 [Download CV here](Karanja-CV-06-aug-25.docx)**
+ **📁 [Download CV here](Karanja-CV-06-aug-25.docx)**
 
 # 👋 Hi, I'm Ken Karanja Wang’ang’a
 
