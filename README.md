@@ -17,11 +17,11 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 
 ## 📫 Contact
 
-- 📍 Based in: Nairobi, Kenya
-- 
+- 📍  Based in: Nairobi, Kenya
+- 🏢 Hela Intimates EPZ Ltd
 - 📫 Email: [kenwarorwa@gmail.com]
 - 💼 LinkedIn: [kenkaranja](www.linkedin.com/in/ken-karanja-864108105)
-<!-- - 📱 **Mobile:** +254 702 613 834  *(Consider if public sharing is okay)* -->
+
 
 ---
 ## 🛠️ Skills & Tools
@@ -56,7 +56,7 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 ---
 
 ### 🧠 Learning
-![Python] <a href="https://www.python.org/" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="48" height="48" alt="Python" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a> 
+- Python
 
 ---
 
