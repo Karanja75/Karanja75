@@ -56,8 +56,12 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 ---
 
 ### 🧠 Learning
- <a href="https://www.python.org/" target="_blank"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="48" height="48" alt="Python" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(346deg) brightness(118%) contrast(119%); margin: 0 20px;" /></a> 
- Python
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="30" height="30" alt="Python" style="margin-right: 8px;" />
+    <span style="font-size: 18px; font-weight: bold; color: #3776AB;"> Python </span>
+  </a>
+</p>
 
 ---
 
