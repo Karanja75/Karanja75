@@ -82,12 +82,12 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 
 ## 📈 What I Do
 
-- Analyze data to drive operational improvements and track business profitability
-- Build dashboards that drive clarity  
+- Analyze raw data to extract insights that faciliate operational improvements and track business profitability
+- Build performance dashboards that drive clarity  
 - Track KPIs across logistics, merchandising, production, and sales  
-- Optimize workflows using smart tools and cross-functional teams collaboration  
-- Learn and apply new technologies to solve real problems
-- Expertise in procurement and sourcing to support local production 
+- Optimize workflows using smart tools and cross-functional teams' collaboration  
+- Learn and apply new technologies to solve real-life problems
+- Expertise in procurement and sourcing to support industrial manufacturing operations 
 
 ----
 
