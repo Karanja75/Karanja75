@@ -68,7 +68,7 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 
 ### 💻 Other Tools  
 - Microsoft 365 (Word, PowerPoint, Outlook, Teams)  
-- Adobe Photoshop / Illustrator (Basic graphic editing)  
+- Adobe Photoshop (Basic graphic editing)  
 - General IT Support & Troubleshooting  
 
 ---
@@ -79,6 +79,17 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 - Excellent communication and collaboration across teams  
 
 ---
+
+## 📈 What I Do
+
+- Analyze data to drive operational improvements and track business profitability
+- Build dashboards that drive clarity  
+- Track KPIs across logistics, merchandising, production, and sales  
+- Optimize workflows using smart tools and cross-functional teams collaboration  
+- Learn and apply new technologies to solve real problems
+- Expertise in procurement and sourcing to support local production 
+
+----
 
 ## 🎓 Education
 
@@ -95,17 +106,6 @@ Kenya Methodist University (KeMU)
 - **Competent in Adobe Creative Cloud (Photoshop, Illustrator)**
 
 ---
-
-## 📈 What I Do
-
-- Analyze data to drive operational improvements and track business profitability
-- Build dashboards that drive clarity  
-- Track KPIs across logistics, merchandising, production, and sales  
-- Optimize workflows using smart tools and cross-functional teams collaboration  
-- Learn and apply new technologies to solve real problems
-- Expertise in procurement and sourcing to support local production 
-
-----
 
 > “Data isn’t just numbers — it’s the story of your business. I help you understand and tell it.”
 
