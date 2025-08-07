@@ -1,4 +1,4 @@
-# Ken-Karanja
+
 
 **📁 [Download CV here](Karanja-CV-06-aug-25.docx)**
 
