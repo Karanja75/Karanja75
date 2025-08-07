@@ -28,11 +28,18 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 
 ### 📊 Data Analysis & Visualization
 <p align="left">
-  <a href="https://app.powerbi.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access" />
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer" style="margin-right: 10px">
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="36" height="36" alt="Go"/>
+</a>
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" width="36" height="36" alt="Python"/>
+</a>
+<a href="https://python.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36" height="36" alt="Solidity"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="JavaScript"/>
+</a>
 </p>
 
 - *Power BI*: Visual dashboards, DAX calculations, data modeling  
