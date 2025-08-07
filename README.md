@@ -45,8 +45,7 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 - *Power BI*: Visual dashboards, DAX calculations, data modeling  
 - *Excel*: Advanced functions, pivot tables, automation (Power Query)  
 - *SQL*: Querying, filtering, and joining relational data  
-- *Python*: Learning for data automation and analytics  
-- *MS Access*: Database design and form/report development
+- *Python*: Learning for data automation and analytics
 
 ---
 
