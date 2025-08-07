@@ -17,7 +17,7 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 
 ## 📫 Contact
 
-- 📍  Based in: Nairobi, Kenya<img src="https://hatscripts.github.io/circle-flags/flags/ke.svg" width="36" height="36" alt="Go"/>
+- 📍  Based in: Nairobi, Kenya
 - 🏢 Hela Intimates EPZ Ltd
 - 📫 Email: [kenwarorwa@gmail.com]
 - 💼 LinkedIn: [kenkaranja](www.linkedin.com/in/ken-karanja-864108105)
