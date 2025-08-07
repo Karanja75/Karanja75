@@ -29,16 +29,16 @@ I am a results-oriented data analyst with a passion for transforming raw data in
 ### 📊 Data Analysis & Visualization
 <p align="left">
 <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer" style="margin-right: 10px">
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="36" height="36" alt="Go"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="36" height="36" alt="PowerBI"/>
 </a>
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" width="36" height="36" alt="Python"/>
+<img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" width="36" height="36" alt="Excel"/>
 </a>
 <a href="https://python.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36" height="36" alt="Solidity"/>
+<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python.svg" width="36" height="36" alt="Python"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="JavaScript"/>
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="36" height="36" alt="SQL"/>
 </a>
 </p>
 
