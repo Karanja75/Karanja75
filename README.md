@@ -1,6 +1,6 @@
 
 
-**📁 [Download CV here](Karanja-CV-24-09.docx)**
+**📁 [Download CV here](KenKaranja-CV-June26.docx)**
 
 # 👋 Hi, I'm Ken Karanja Wang’ang’a
 
